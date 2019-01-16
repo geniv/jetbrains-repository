@@ -1,0 +1,27 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.orig;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <extensionMap>
+      <mapping ext="map" type="JSON" />
+      <mapping ext="phpt" type="PHP" />
+      <mapping pattern=".production-db" type="PLAIN_TEXT" />
+      <mapping pattern="sess_g06vbob4cogjsh5h7jph0vdto5" type="PLAIN_TEXT" />
+      <mapping pattern=".svnignore" type="PLAIN_TEXT" />
+      <mapping pattern="sdfdsf" type="PLAIN_TEXT" />
+      <mapping pattern=".userrc" type="PLAIN_TEXT" />
+      <mapping pattern="netteweb" type="PLAIN_TEXT" />
+      <mapping pattern="vyrazeno" type="PLAIN_TEXT" />
+      <mapping pattern="@deprecated" type="PLAIN_TEXT" />
+      <mapping pattern="Nette%5CBridges%5CApplicationDI%5CApplicationExtension" type="PLAIN_TEXT" />
+      <mapping pattern=".version" type="PLAIN_TEXT" />
+      <mapping pattern="sess_2a1597e9998100cd5e140564070554ed" type="PLAIN_TEXT" />
+      <mapping pattern="pristupy" type="PLAIN_TEXT" />
+      <mapping pattern="getListDirs" type="PLAIN_TEXT" />
+      <mapping pattern=".strict" type="PLAIN_TEXT" />
+      <mapping ext="strict" type="PLAIN_TEXT" />
+      <mapping ext="production" type="PLAIN_TEXT" />
+      <mapping ext="stage" type="PLAIN_TEXT" />
+      <mapping ext="neon___jb_bak___" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
