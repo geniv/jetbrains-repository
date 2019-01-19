@@ -1,5 +1,8 @@
 <code_scheme name="Mac mini" version="173">
   <codeStyleSettings language="PHP">
+    <option name="KEEP_BLANK_LINES_IN_DECLARATIONS" value="0" />
     <option name="BLANK_LINES_BEFORE_PACKAGE" value="0" />
+    <option name="BLANK_LINES_AROUND_CLASS" value="2" />
+    <option name="BLANK_LINES_AROUND_FIELD" value="1" />
   </codeStyleSettings>
 </code_scheme>
