@@ -1,0 +1,23 @@
+<scheme name="Darcula mac mini" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2019-01-21T15:38:24</property>
+    <property name="ide">PhpStorm</property>
+    <property name="ideVersion">2018.3.3.0.0</property>
+    <property name="modified">2019-01-21T15:40:58</property>
+    <property name="originalScheme">_@user_Darcula</property>
+  </metaInfo>
+  <attributes>
+    <option name="MARKDOWN_INLINE_HTML">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+        <option name="BACKGROUND" value="2b2b2b" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="REGEXP.OPTIONS">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
