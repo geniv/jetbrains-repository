@@ -1,0 +1,29 @@
+<scheme name="Darcula Asus ROG" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="created">2019-02-19T22:40:04</property>
+    <property name="ide">PhpStorm</property>
+    <property name="ideVersion">2018.3.4.0.0</property>
+    <property name="modified">2019-02-19T22:41:05</property>
+    <property name="originalScheme">_@user_Darcula</property>
+  </metaInfo>
+  <option name="LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+  <option name="CONSOLE_FONT_NAME" value="Monospaced" />
+  <option name="CONSOLE_FONT_SIZE" value="16" />
+  <attributes>
+    <option name="MARKDOWN_INLINE_HTML">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+        <option name="BACKGROUND" value="2b2b2b" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="REGEXP.OPTIONS">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
