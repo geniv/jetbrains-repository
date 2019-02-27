@@ -1,9 +1,12 @@
 <code_scheme name="Mac mini" version="173">
   <PHPCodeStyleSettings>
     <option name="BLANK_LINES_AROUND_CONSTANTS" value="1" />
+    <option name="KEEP_BLANK_LINES_AFTER_LBRACE" value="1" />
   </PHPCodeStyleSettings>
   <codeStyleSettings language="PHP">
     <option name="KEEP_BLANK_LINES_IN_DECLARATIONS" value="0" />
+    <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
+    <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="1" />
     <option name="BLANK_LINES_BEFORE_PACKAGE" value="0" />
     <option name="BLANK_LINES_AROUND_CLASS" value="2" />
     <option name="BLANK_LINES_AROUND_FIELD" value="1" />
