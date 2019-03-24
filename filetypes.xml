@@ -7,6 +7,7 @@
       <mapping ext="phpt" type="PHP" />
       <mapping pattern="sudoScreen" type="PLAIN_TEXT" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
+      <mapping pattern="screenRc" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="production" type="PLAIN_TEXT" />
       <mapping ext="stage" type="PLAIN_TEXT" />
