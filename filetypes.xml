@@ -7,6 +7,7 @@
       <mapping ext="phpt" type="PHP" />
       <mapping pattern="sudoScreen" type="PLAIN_TEXT" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
+      <mapping pattern="crontabPhpCli" type="PLAIN_TEXT" />
       <mapping pattern="loraServerSudoers" type="PLAIN_TEXT" />
       <mapping pattern="screenRc" type="PLAIN_TEXT" />
       <mapping pattern="loraServerBuildSudoers" type="PLAIN_TEXT" />
