@@ -1,0 +1,12 @@
+<application>
+  <component name="DataManager">
+    <option name="lastUsedFont" value="Standard" />
+    <commonFonts>
+      <item value="Standard" />
+      <item value="Graffiti" />
+      <item value="Rectangles" />
+      <item value="Slant" />
+      <item value="ANSI Shadow" />
+    </commonFonts>
+  </component>
+</application>
