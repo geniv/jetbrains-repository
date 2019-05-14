@@ -1,5 +1,7 @@
 <code_scheme name="Mac mini" version="173">
   <PHPCodeStyleSettings>
+    <option name="ALIGN_PHPDOC_PARAM_NAMES" value="true" />
+    <option name="ALIGN_PHPDOC_COMMENTS" value="true" />
     <option name="LINK_WEIGHT" value="2" />
     <option name="THROWS_WEIGHT" value="6" />
     <option name="PARAM_WEIGHT" value="4" />
