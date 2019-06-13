@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../app/components/nette-lora-api/src/LoraApi.php [lora-server]'" />
-    <option name="defaultScopeName" value="File '.../app/components/nette-lora-api/src/LoraApi.php [lora-server]'" />
-    <option name="SEARCH_SCOPE" value="File '.../app/components/nette-lora-api/src/LoraApi.php [lora-server]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
