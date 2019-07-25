@@ -7,8 +7,6 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="map" type="JSON" />
       <mapping ext="ttf" type="Native" />
-      <mapping ext="phpt" type="PHP" />
-      <removed_mapping ext="phpt" type="PHPT" />
       <mapping pattern="loraServerBuildSudoers" type="PLAIN_TEXT" />
       <mapping pattern="passwordfile" type="PLAIN_TEXT" />
       <mapping pattern="docker-php-entrypoint" type="PLAIN_TEXT" />
@@ -38,7 +36,6 @@
       <removed_mapping pattern=".gitmodules" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".yarnrc" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="phpt" type="PHPT" />
       <removed_mapping pattern="sess_g06vbob4cogjsh5h7jph0vdto5" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="sdfdsf" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".jshintignore" approved="true" type="PLAIN_TEXT" />
