@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.orig;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
+      <mapping pattern="docker-entrypoint" type="Bash" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="map" type="JSON" />
@@ -37,6 +38,7 @@
       <removed_mapping pattern=".gitmodules" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".yarnrc" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="phpt" type="PHPT" />
       <removed_mapping pattern="sess_g06vbob4cogjsh5h7jph0vdto5" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="sdfdsf" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".jshintignore" approved="true" type="PLAIN_TEXT" />
@@ -59,10 +61,9 @@
       <removed_mapping pattern="pristupy" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="x" approved="true" type="PHP" />
       <removed_mapping pattern=".eslintignore" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".svnignore" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".svnignore" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="getListDirs" approved="true" type="PLAIN_TEXT" />
-      <mapping pattern="docker-entrypoint" type="Bash" />
     </extensionMap>
   </component>
 </application>
