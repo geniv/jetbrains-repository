@@ -25,4 +25,9 @@
     <option name="BLANK_LINES_AROUND_CLASS" value="2" />
     <option name="BLANK_LINES_AROUND_FIELD" value="1" />
   </codeStyleSettings>
+  <codeStyleSettings language="neon">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
 </code_scheme>
