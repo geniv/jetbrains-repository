@@ -4,12 +4,13 @@
     <property name="created">2019-02-19T22:40:04</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.3.4.0.0</property>
-    <property name="modified">2019-04-26T00:53:35</property>
+    <property name="modified">2019-11-28T19:35:10</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+  <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
   <attributes>
     <option name="MARKDOWN_INLINE_HTML">
       <value>
