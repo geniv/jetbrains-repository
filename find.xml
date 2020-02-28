@@ -12,8 +12,8 @@
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*.latte</mask>
     <mask>*.tpl</mask>
     <mask>*.php</mask>
+    <mask>*.latte</mask>
   </component>
 </application>
