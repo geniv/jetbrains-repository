@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.orig;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
+      <mapping pattern="docker-entrypoint" type="Bash" />
       <mapping ext="map" type="JSON" />
       <mapping ext="ttf" type="Native" />
       <mapping pattern="sudoScreen" type="PLAIN_TEXT" />
@@ -10,13 +11,13 @@
       <mapping pattern="crontabPhpCli" type="PLAIN_TEXT" />
       <mapping pattern="loraServerSudoers" type="PLAIN_TEXT" />
       <mapping pattern="screenRc" type="PLAIN_TEXT" />
-      <mapping pattern="passwordfile" type="PLAIN_TEXT" />
       <mapping pattern="docker-php-entrypoint" type="PLAIN_TEXT" />
+      <mapping pattern="passwordfile" type="PLAIN_TEXT" />
       <mapping ext="production" type="PLAIN_TEXT" />
       <mapping ext="strict" type="PLAIN_TEXT" />
+      <mapping ext="stage" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="user" type="PLAIN_TEXT" />
-      <mapping ext="stage" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="cz" type="PLAIN_TEXT" />
       <removed_mapping pattern=".jshintignore" approved="true" type="PLAIN_TEXT" />
@@ -58,7 +59,6 @@
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".svnignore" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="getListDirs" approved="true" type="PLAIN_TEXT" />
-      <mapping pattern="docker-entrypoint" type="Bash" />
     </extensionMap>
   </component>
 </application>
