@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping ext="map" type="JSON" />
       <mapping ext="ttf" type="Native" />
+      <mapping ext="local" type="Neon" />
       <mapping pattern="sudoScreen" type="PLAIN_TEXT" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
       <mapping pattern="loraServerBuildSudoers" type="PLAIN_TEXT" />
