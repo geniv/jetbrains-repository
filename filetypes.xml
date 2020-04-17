@@ -7,28 +7,28 @@
       <mapping ext="local" type="Neon" />
       <mapping pattern="sudoScreen" type="PLAIN_TEXT" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
-      <mapping pattern="loraServerBuildSudoers" type="PLAIN_TEXT" />
       <mapping pattern="crontabPhpCli" type="PLAIN_TEXT" />
-      <mapping pattern="loraServerSudoers" type="PLAIN_TEXT" />
       <mapping pattern="screenRc" type="PLAIN_TEXT" />
+      <mapping pattern="loraServerBuildSudoers" type="PLAIN_TEXT" />
+      <mapping pattern="loraServerSudoers" type="PLAIN_TEXT" />
       <mapping pattern="passwordfile" type="PLAIN_TEXT" />
       <mapping pattern="docker-php-entrypoint" type="PLAIN_TEXT" />
       <mapping ext="production" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="strict" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="user" type="PLAIN_TEXT" />
       <mapping ext="stage" type="PLAIN_TEXT" />
-      <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="cz" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".jshintignore" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".eslintignore" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".gitmodules" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".stylelintignore" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".eslintignore" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".jshintignore" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".yarnrc" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".gitmodules" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".version" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".gitignore" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".strict" approved="true" type="PLAIN_TEXT" />
