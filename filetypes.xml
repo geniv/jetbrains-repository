@@ -18,6 +18,7 @@
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="user" type="PLAIN_TEXT" />
       <mapping ext="stage" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="cz" type="PLAIN_TEXT" />
       <removed_mapping pattern=".jshintignore" approved="true" type="PLAIN_TEXT" />
