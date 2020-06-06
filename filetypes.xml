@@ -11,6 +11,7 @@
       <mapping pattern="crontabPhpCli" type="PLAIN_TEXT" />
       <mapping pattern="loraServerSudoers" type="PLAIN_TEXT" />
       <mapping pattern="screenRc" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="passwordfile" type="PLAIN_TEXT" />
       <mapping pattern="docker-php-entrypoint" type="PLAIN_TEXT" />
       <mapping ext="production" type="PLAIN_TEXT" />
