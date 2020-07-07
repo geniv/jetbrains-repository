@@ -10,6 +10,7 @@
       <mapping pattern="loraServerBuildSudoers" type="PLAIN_TEXT" />
       <mapping pattern="crontabPhpCli" type="PLAIN_TEXT" />
       <mapping pattern="loraServerSudoers" type="PLAIN_TEXT" />
+      <mapping pattern=".empty" type="PLAIN_TEXT" />
       <mapping pattern="screenRc" type="PLAIN_TEXT" />
       <mapping pattern="passwordfile" type="PLAIN_TEXT" />
       <mapping pattern="docker-php-entrypoint" type="PLAIN_TEXT" />
