@@ -3,5 +3,8 @@
     <blacklists>
       <blacklist language="PHP" />
     </blacklists>
+    <disabledLanguages>
+      <language id="PHP" />
+    </disabledLanguages>
   </component>
 </application>
