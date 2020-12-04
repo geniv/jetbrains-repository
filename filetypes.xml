@@ -1,6 +1,6 @@
 <application>
-  <component name="FileTypeManager" version="17">
-    <ignoreFiles list="*.hprof;*.orig;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+  <component name="FileTypeManager" version="18">
+    <ignoreFiles list="*.orig;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping ext="map" type="JSON" />
       <mapping ext="ttf" type="Native" />
@@ -24,45 +24,37 @@
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="stage" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".gitmodules" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".jshintignore" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".yarnrc" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".stylelintignore" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".eslintignore" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".version" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".gitignore" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".strict" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".gitmodules" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".yarnrc" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="sess_g06vbob4cogjsh5h7jph0vdto5" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="sdfdsf" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".jshintignore" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="@deprecated" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".stylelintignore" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="makefile" approved="true" type="textmate" />
-      <removed_mapping pattern=".editorconfig" approved="true" type="Native" />
-      <removed_mapping pattern="netteweb" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="LICENSE" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".userrc" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="sess_2a1597e9998100cd5e140564070554ed" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
-      <removed_mapping pattern=".production-db" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="vyrazeno" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="neon___jb_bak___" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="Nette%5CBridges%5CApplicationDI%5CApplicationExtension" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".svn-commit.3.tmp.swp" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="pristupy" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="x" approved="true" type="PHP" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <removed_mapping pattern=".editorconfig" approved="true" type="Native" />
       <removed_mapping pattern=".eslintignore" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".gitignore" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".gitmodules" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".jshintignore" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".production-db" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".strict" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".stylelintignore" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".svn-commit.3.tmp.swp" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".svnignore" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".userrc" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".version" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".yarnrc" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="@deprecated" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="LICENSE" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="Nette%5CBridges%5CApplicationDI%5CApplicationExtension" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="getListDirs" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="netteweb" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="pristupy" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="sdfdsf" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="sess_2a1597e9998100cd5e140564070554ed" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="sess_g06vbob4cogjsh5h7jph0vdto5" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="vyrazeno" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="x" approved="true" type="PHP" />
       <mapping pattern="docker-entrypoint" type="Bash" />
     </extensionMap>
   </component>
