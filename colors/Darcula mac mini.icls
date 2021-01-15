@@ -1,11 +1,15 @@
 <scheme name="Darcula mac mini" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2019-01-21T15:38:24</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.3.3.0.0</property>
-    <property name="modified">2019-01-21T15:40:58</property>
+    <property name="modified">2021-01-15T23:18:21</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.2" />
+  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <attributes>
     <option name="MARKDOWN_INLINE_HTML">
       <value>
