@@ -3,6 +3,7 @@
     <ignoreFiles list="*.orig;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping pattern="debug-mode" type="AUTO_DETECTED" />
+      <mapping pattern="lock-11e0eed8d3696c0a632f822df385ab3c" type="AUTO_DETECTED" />
       <mapping ext="map" type="JSON" />
       <mapping ext="ttf" type="Native" />
       <mapping ext="local" type="Neon" />
