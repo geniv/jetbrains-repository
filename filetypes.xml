@@ -5,6 +5,7 @@
       <mapping pattern="debug-mode" type="AUTO_DETECTED" />
       <mapping pattern="lock-11e0eed8d3696c0a632f822df385ab3c" type="AUTO_DETECTED" />
       <mapping pattern="null" type="AUTO_DETECTED" />
+      <mapping pattern="security" type="AUTO_DETECTED" />
       <mapping ext="map" type="JSON" />
       <mapping ext="ttf" type="Native" />
       <mapping ext="local" type="Neon" />
