@@ -1,9 +1,9 @@
 <application>
   <component name="ChronomorphSettings">
     <option name="useDayCycle" value="true" />
-    <location latitude="0" longitude="0" />
-    <daySettings />
-    <nightSettings colorScheme="Darcula Asus ROG" />
+    <location latitude="49" longitude="17" />
+    <daySettings theme="IntelliJ Light" />
+    <nightSettings theme="Darcula" />
     <option name="chronoEntries" />
   </component>
 </application>
