@@ -13,8 +13,8 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.tpl</mask>
-    <mask>*.latte</mask>
     <mask>*.neon</mask>
     <mask>*.php</mask>
+    <mask>*.latte</mask>
   </component>
 </application>
