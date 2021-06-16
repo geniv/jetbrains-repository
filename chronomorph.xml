@@ -2,7 +2,7 @@
   <component name="ChronomorphSettings">
     <option name="useDayCycle" value="true" />
     <location latitude="49" longitude="17" />
-    <daySettings theme="IntelliJ Light" colorScheme="Darcula Asus ROG" />
+    <daySettings theme="IntelliJ Light" colorScheme="_@user_IntelliJ Light" />
     <nightSettings theme="Darcula" colorScheme="Darcula Asus ROG" />
     <option name="chronoEntries" />
   </component>
