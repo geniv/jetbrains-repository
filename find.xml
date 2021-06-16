@@ -14,8 +14,8 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.tpl</mask>
-    <mask>*.latte</mask>
     <mask>*.neon</mask>
+    <mask>*.latte</mask>
     <mask>*.php</mask>
   </component>
 </application>
