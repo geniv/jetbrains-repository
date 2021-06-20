@@ -1,6 +1,6 @@
 <application>
   <component name="ChronomorphSettings">
-    <option name="useDayCycle" value="true" />
+    <option name="useDayCycle" value="false" />
     <location latitude="49" longitude="17" />
     <daySettings theme="IntelliJ Light" colorScheme="_@user_IntelliJ Light" />
     <nightSettings theme="Darcula" colorScheme="Darcula Asus ROG" />
