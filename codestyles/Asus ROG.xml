@@ -12,9 +12,6 @@
     <option name="PHPDOC_BLANK_LINE_BEFORE_TAGS" value="true" />
     <option name="VARIABLE_NAMING_STYLE" value="CAMEL_CASE" />
   </PHPCodeStyleSettings>
-  <XML>
-    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
-  </XML>
   <codeStyleSettings language="PHP">
     <option name="KEEP_BLANK_LINES_IN_DECLARATIONS" value="1" />
     <option name="BLANK_LINES_AFTER_PACKAGE" value="1" />
