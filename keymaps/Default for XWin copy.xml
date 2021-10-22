@@ -36,4 +36,5 @@
   <action id="com.jetbrains.plugins.remotesdk.console.RunSshConsoleAction">
     <keyboard-shortcut first-keystroke="ctrl alt f12" />
   </action>
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.MarkdownCreateLinkAction" />
 </keymap>
