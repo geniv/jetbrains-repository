@@ -6,6 +6,7 @@
     <option name="widgets">
       <map>
         <entry key="Memory" value="true" />
+        <entry key="webDeployment.default.server.widget" value="false" />
       </map>
     </option>
   </component>
