@@ -1,0 +1,9 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="local" id="fb028ed6-a01e-446f-9bc6-c6192121bfe5" port="22" customName="ubuntu" nameFormat="CUSTOM" useOpenSSHConfig="true">
+        <option name="customName" value="ubuntu" />
+      </sshConfig>
+    </configs>
+  </component>
+</application>
