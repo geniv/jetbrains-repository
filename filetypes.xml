@@ -21,6 +21,7 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="loraServerSudoers" type="PLAIN_TEXT" />
       <mapping pattern=".docker_bash_history" type="PLAIN_TEXT" />
+      <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="cf" type="PLAIN_TEXT" />
       <mapping ext="cz" type="PLAIN_TEXT" />
       <mapping ext="user" type="PLAIN_TEXT" />
