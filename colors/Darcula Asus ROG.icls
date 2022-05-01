@@ -4,7 +4,7 @@
     <property name="created">2019-02-19T22:40:04</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.3.4.0.0</property>
-    <property name="modified">2022-05-01T10:22:19</property>
+    <property name="modified">2022-05-01T19:31:40</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -13,7 +13,7 @@
   <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
-    <option name="WHITESPACES" value="3c3f41" />
+    <option name="WHITESPACES" value="" />
   </colors>
   <attributes>
     <option name="MARKDOWN_INLINE_HTML">
