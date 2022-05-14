@@ -29,6 +29,7 @@
       <mapping ext="production" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="gpc" type="PLAIN_TEXT" />
+      <mapping ext="log" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="stage" type="PLAIN_TEXT" />
       <mapping ext="ace" type="PLAIN_TEXT" />
