@@ -2,25 +2,25 @@
   <component name="FileTypeManager" version="18">
     <ignoreFiles list="*.orig;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs" />
     <extensionMap>
+      <mapping pattern="crontab" type="AUTO_DETECTED" />
+      <mapping pattern="null" type="AUTO_DETECTED" />
       <mapping pattern="lock-11e0eed8d3696c0a632f822df385ab3c" type="AUTO_DETECTED" />
       <mapping pattern="debug-mode" type="AUTO_DETECTED" />
       <mapping pattern="security" type="AUTO_DETECTED" />
-      <mapping pattern="crontab" type="AUTO_DETECTED" />
-      <mapping pattern="null" type="AUTO_DETECTED" />
       <mapping ext="map" type="JSON" />
       <mapping ext="ttf" type="Native" />
       <mapping ext="local" type="Neon" />
+      <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
+      <mapping pattern=".empty" type="PLAIN_TEXT" />
+      <mapping pattern="heureka-feed-7387919d91e582c5673fc2f9ed080ab3QX78ah" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".docker_bash_history" type="PLAIN_TEXT" />
       <mapping pattern="passwordfile" type="PLAIN_TEXT" />
       <mapping pattern="crontabPhpCli" type="PLAIN_TEXT" />
       <mapping pattern="screenRc" type="PLAIN_TEXT" />
-      <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
-      <mapping pattern=".empty" type="PLAIN_TEXT" />
       <mapping pattern="sudoScreen" type="PLAIN_TEXT" />
       <mapping pattern="loraServerBuildSudoers" type="PLAIN_TEXT" />
-      <mapping pattern="heureka-feed-7387919d91e582c5673fc2f9ed080ab3QX78ah" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="loraServerSudoers" type="PLAIN_TEXT" />
-      <mapping pattern=".docker_bash_history" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="cf" type="PLAIN_TEXT" />
       <mapping ext="cz" type="PLAIN_TEXT" />
