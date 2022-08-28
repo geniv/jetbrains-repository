@@ -10,7 +10,7 @@
       <version-cache version="18.3.0" last-modified="1654137266000" />
     </local-interpreter>
     <local-interpreter path="$USER_HOME$/.volta/bin/node">
-      <version-cache version="16.17.0" last-modified="1654128880000" />
+      <version-cache version="18.7.0" last-modified="1654128880000" />
     </local-interpreter>
     <local-interpreter path="$USER_HOME$/.nvm/versions/node/v16.15.1/bin/node">
       <version-cache version="16.15.1" last-modified="1654116748000" />
