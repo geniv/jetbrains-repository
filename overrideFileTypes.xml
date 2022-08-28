@@ -2,5 +2,6 @@
   <component name="OverrideFileTypeManager">
     <file url="file://$USER_HOME$/www/aps-server/index.php" value="PHP" />
     <file url="file://$USER_HOME$/www/aps-server/react/src/components/AddEditPersonForm.tsx" value="TypeScript JSX" />
+    <file url="file://$USER_HOME$/www/sms-vote/docker-data/.gitkeep" />
   </component>
 </application>
